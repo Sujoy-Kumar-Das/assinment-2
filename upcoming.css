@@ -147,6 +147,7 @@ aside{
     grid-template-columns: repeat(2, 1fr);
     width: 60%;
     row-gap: 20px;
+    margin-bottom: 40px;
 }
 .team-title{
     text-align: center;
@@ -157,6 +158,14 @@ aside{
 }
 .match-info{
     padding: 20px 10px;
+    color: gray;
+}
+.match{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: wheat;
 }
 
 /* upcoming match style end */
